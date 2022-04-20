@@ -1,0 +1,29 @@
+body{
+    background-color: whitesmoke;
+}
+
+.card{
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid gray;
+}
+.card-head{
+    text-align: center;
+}
+.card-head img{
+    width: 99%;
+    height: 99%;
+}
+.card-content{
+    margin: 20px 40px 20px 20px;
+}
+
+.card-content span{
+    color: #c4c4c4;
+}
+.card-content a{
+    text-decoration: none;
+    color: #4e4e4e;
+    font-size: 12px;
+}
